@@ -1,17 +1,15 @@
 # Challenge Hackathon
-Bienvenida a la hackathon de finalización del plan común. En esta ocasión la temática será el consumo de películas y para ello crearemos soluciones/productos utilizando el API de Open Movie Database (OMDB) o the movie database .
+Bienvenida a la hackathon de finalización del plan común. En esta ocasión la temática será el consumo de películas y para ello crearemos soluciones/productos utilizando el [API de Open Movie Database (OMDB) o the movie database](http://www.omdbapi.com/) .
 
-¿Qué podemos hacer con API sobre películas? ¡Muchas cosas! Podemos crear productos que resuelvan muchas necesidades de usuarios. Piensa en estos usuarios:
+¿Qué podemos hacer con API sobre películas? ¡Muchas cosas! Podemos crear productos que resuelvan muchas necesidades de usuarios. 
 
-Un fan de películas en español, a quien le gustaría ver qué nuevas películas en este idioma hay o qué películas clásicas en este idioma no ha visto. 
+Piensa en estos **ejemplos**:
 
-Una mamá de 2 niños que sueña con tener un sitio donde sus hijos encuentren acceso a películas con contenido ideal para ellos.
-
-Un cineasta australiano que grabará una película en Latinoamérica y quiere saber quiénes son los mejores actores, o a menos quienes son los más famosos.
-
-Un grupo de fanáticos de star wars que quieren ver los datos de todas las películas de la saga.
-
-Un geek que quiere llevar un record de todas las películas que ha visto en su vida, e ir agregando adicionales cada vez que las vea. 
+- Un fan de películas en español, a quien le gustaría ver qué nuevas películas en este idioma hay o qué películas clásicas en este idioma no ha visto. 
+- Una mamá de 2 niños que sueña con tener un sitio donde sus hijos encuentren acceso a películas con contenido ideal para ellos.
+- Un cineasta australiano que grabará una película en Latinoamérica y quiere saber quiénes son los mejores actores, o al menos quienes son los más famosos.
+- Un grupo de fanáticos de star wars que quieren ver los datos de todas las películas de la saga.
+- Un geek que quiere llevar un record de todas las películas que ha visto en su vida, e ir agregando adicionales cada vez que las vea. 
 
 Con el API de OMDB podemos crear productos web que resuelvan estas necesidades de los usuarios y la de muchos otros más.
 
@@ -41,25 +39,23 @@ Para esta hackathon tendrás 4 días en el salón de clases más las horas adici
 - Prefiere siempre pocas cosas funcionando OK que muchas “a medias”.
 
 ## Agenda propuesta:
+
 ### Sesión 1:
-Presentación de la hackathon - 15 min
-Planning del trabajo - 60 min 
-Entrevistas a usuarios(as) para diseñar el producto - 60 min
-Brainstorming: Posibles soluciones/características del producto - 40 min
-Sketches - 40 min
-Testing de los sketches - 40 min
-Planning del desarrollo del trabajo - 15 min
+- Presentación de la hackathon
+- Planning del trabajo
+- Implementación del producto
+
 
 ### Sesión 2:
-Implementación libre del producto - 270 min
+- Implementación del producto
+- Presentaciones
  
 
 ### Sesión 3:
-Pitches - 60 min (en simúltaneo)
-Implementación libre del producto - 270 min
+- Implementación del producto
 
 
-### Sesión 3:
-Implementación libre del producto - 180 min
-Pitches - 60 min 
-Deliberación y resultados - 20 min 
+### Sesión 4:
+- Implementación del producto
+- Presentaciones finales
+- Deliberación y resultados
