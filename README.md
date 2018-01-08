@@ -42,20 +42,20 @@ Para esta hackathon tendrás 4 días en el salón de clases más las horas adici
 
 ### Sesión 1:
 - Presentación de la hackathon
-- Planning del trabajo
-- Implementación del producto
+- Planificación del trabajo
+- Trabajo en el producto
 
 
 ### Sesión 2:
-- Implementación del producto
+- Trabajo en el producto
 - Presentaciones
  
 
 ### Sesión 3:
-- Implementación del producto
+- Trabajo en el producto
 
 
 ### Sesión 4:
-- Implementación del producto
+- Trabajo en el producto
 - Presentaciones finales
 - Deliberación y resultados
