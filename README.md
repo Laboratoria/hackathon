@@ -59,3 +59,11 @@ Para esta hackathon tendrás 4 días en el salón de clases más las horas adici
 - Trabajo en el producto
 - Presentaciones finales
 - Deliberación y resultados
+
+****
+
+## API
+
+- Api key: 3a181f1c
+- Documentación: http://www.omdbapi.com/ 
+- Ejemplo: https://gist.github.com/lalogf/c28e041e8036789e0cf092abfcd40608 
