@@ -43,6 +43,7 @@ Para esta hackathon tendrás 4 días en el salón de clases más las horas adici
 ### Sesión 1:
 - Presentación de la hackathon
 - Planificación del trabajo
+- Ideación del producto
 - Trabajo en el producto
 
 
@@ -66,4 +67,3 @@ Para esta hackathon tendrás 4 días en el salón de clases más las horas adici
 
 - Api key: 3a181f1c
 - Documentación: http://www.omdbapi.com/ 
-- Ejemplo: https://gist.github.com/lalogf/c28e041e8036789e0cf092abfcd40608 
