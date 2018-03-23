@@ -67,3 +67,18 @@ Square POS es una de las mejores apps para punto de venta, sin embargo, no tiene
 ### 7. "The bible app" o aplicaciones similares
 
 Elige una app del *App Store o Play Store* que tenga muchas descargas pero que su experiencia no sea tan buena. Testéala, re-diséñala e impleménta tu versión mejorada.
+
+### 8. Entrevistas online <L>
+
+Crear una aplicación web que pueda “entrevistar”, de manera remota y autónoma las postulantes a Laboratoria. Cada postulante debe grabar (audio y video) una respuesta para cada pregunta que le haga la app.
+
+#### Requisitos generales
+- Las preguntas se hacen una a la vez.
+- La respuesta a cada pregunta tiene una duración máxima permitida.
+- La postulante puede grabar la respuesta a cada pregunta UNA SOLA VEZ.
+- La postulante decide el momento en el que comienza a grabar su respuesta.
+- La postulante puede decidir el momento en el que detiene la grabación (si es que el tiempo no ha terminado)
+- La app decide el momento en el que se corta la grabación (de acuerdo a la duración predefinida para la respuesta).
+
+#### Material
+- Documento con descrpción completa del reto y materiales: [Aquí](https://docs.google.com/document/d/14QQOHYmsyuWyVXSoy4Mrd7J7tuQN0dF1bXaBMXMkYBU/edit#heading=h.up3vvjpkwjgq)
