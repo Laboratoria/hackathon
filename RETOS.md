@@ -16,11 +16,11 @@ La idea es que todos los días muestre cómo será el clima del día y le pregun
 
 La app deberá guardar las respuestas para luego relacionarlas con el pronóstico y decirte cómo se sentirá el usuario ese día. 
 
-### 3. Bikesantiago
+### 3. Programa de préstamo de bicis
 
-La app de [Bikesantiago](https://play.google.com/store/apps/details?id=com.bikesantiagoapp) tiene solo 2.1 estrellas en la *Play Store*. Ayúdanos a entender por qué tiene tan bajo rating y cómo podemos hacer para mejorar la experiencia y el rating. 
-
-* Si estás fuera de Santiago, piensa en un servicio similar para tu ciudad.
+La municipalidad de San Borja tiene un programa de préstamos de bicicletas (puedes verlo [aquí](http://piap.msb.gob.pe/webbici/viaja-en-bici.html)). 
+Luego de haber hecho todo manual por un tiempo, quieren pasar a tener una herramienta digital, que tú propondrás
+y desarrollarás para dar mejor y mayor acceso de la cantidad de bicis, las estaciones, los tiempos de préstamos a sus usuarios. Además, buscan que esta herramienta sirva para atraer usuarios al programa y facilitar su inscripción. 
 
 ### 4. Eventos
 
@@ -82,3 +82,41 @@ Crear una aplicación web que pueda “entrevistar”, de manera remota y autón
 
 #### Material
 - Documento con descrpción completa del reto y materiales: [Aquí](https://docs.google.com/document/d/14QQOHYmsyuWyVXSoy4Mrd7J7tuQN0dF1bXaBMXMkYBU/edit#heading=h.up3vvjpkwjgq)
+
+### 9. Distribución de Squads
+
+Como sabes, en Laboratoria redistribuimos los squads en cada sprint, para que vayan conociéndose y potenciándose entre uds.
+Aprender en squads nos trae muchos beneficios, sin embargo, generar estos squads cada sprint es una tarea tediosa para las
+Training Managers. Creemos que esta distribución de squads puede ser más automática y así le facilitar la vida a las Training
+Managers. Así que les pedimos a uds, que nos ayuden a crear esta herramienta que pueda redistribuir los squads cada sprint
+basándose en distintas variables.
+
+#### Qué variables tenemos en cuenta
+
+- % tech skills
+- % soft skills:
+- Comunicación eficaz
+- Manejo del tiempo
+- Nivel de inglés
+- Perfil
+- Que no hayan estado en un mismo squad antes
+
+#### Consideraciones
+
+Los squads son de 6 estudiantes, y su distribución debería incluir como mínimo:
+
+- 1 estudiante con nota tech mayor a 70%
+- 1 estudiante con comunicación eficaz mayor a 70%
+- 1 estudiante con nivel de inglés 2  o 3
+- 1 estudiante con nivel de inglés 0 o 1
+
+
+### Datos adicionales
+
+Los niveles de inglés se miden así:
+- 0: Sin conocimientos
+- 1: Básico
+- 2: Intermedio
+- 3: Avanzado
+
+Puedes ver más sobre este reto en este [link](https://docs.google.com/document/d/16kznuB-CJRWJU4ptEYp_5GLuwIP1ZGNfp7hrRtq7YtQ/edit?usp=sharing)
