@@ -30,10 +30,10 @@ Para esta hackathon tendrás 4 días en el salón de clases más las horas adici
 
 ## Reglas generales:
 - El trabajo es en squads de 4-5 personas
-- Duración: 4 turnos en la sala de clases y todo el tiempo adicional que quieran/puedan trabajar.
+- Duración: 29 horas.
 - Presentaciones: 
-  - Habrán dos. Una el segundo día, mostrando avances, y otra al final mostrando el producto final
-  - La pauta para las presentaciones es la siguiente:
+  - El jueves 28, habrán dos. Una a las 10:00 a.m., mostrando avances, y otra al final, a las 2:00 p.m., mostrando el producto final
+  - La pauta para las presentaciones es la siguiente, puedes usar este template https://goo.gl/aQxLsv:
     - Sé breve y anda directo al punto que quieres discutir.
     - Piensa en que le hablas a un cliente, no a otra estudiante o un(a) profesor(a). 
     - Que lo que muestres hable por sí mismo, habla más acerca de tu proceso, de los ¿Por qué? que de los ¿Qué?
@@ -51,24 +51,20 @@ Para esta hackathon tendrás 4 días en el salón de clases más las horas adici
 
 ## Agenda propuesta:
 
-### Sesión 1:
-- Presentación de la hackathon
-- Planificación del trabajo
-- Ideación del producto
-- Trabajo en el producto
+### Miércoles 27:
+- 9:00 a.m.: Presentación de la hackathon
+- 9:30 a.m.: Ideación, planificación y trabajo en el producto
+- 1:30 p.m.: Hora de la comida
+- 2:30 p.m.: Trabajo en el producto
+- 4:30 p.m.: Presentación de avance (feedback de mentores)
+- 5:30 p.m.: Trabajo en el producto hasta el día siguiente :)
 
-
-### Sesión 2:
-- Trabajo en el producto
-- Presentaciones
+### Jueves 28:
+- 7:30 a.m.: Desayuno
+- 8:30 a.m.: Trabajo en el producto
+- 10:00 a.m.: Pre Pitch
+- 10:30 a.m.: Trabajo en el producto
+- 1:30 p.m.: Pitch Final
  
 
-### Sesión 3:
-- Trabajo en el producto
-
-
-### Sesión 4:
-- Trabajo en el producto
-- Presentaciones finales
-- Deliberación y resultados
 
