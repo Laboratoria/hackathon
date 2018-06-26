@@ -35,7 +35,7 @@ Para esta hackathon tendrás 4 días en el salón de clases más las horas adici
   - El jueves 28, habrán dos. Una a las 10:00 a.m., mostrando avances, y otra al final, a las 2:00 p.m., mostrando el producto final
   - La pauta para las presentaciones es la siguiente, puedes usar este template https://goo.gl/aQxLsv:
     - Sé breve y anda directo al punto que quieres discutir.
-    - Piensa en que le hablas a un cliente, no a otra estudiante o un(a) profesor(a). 
+    - Piensa en que le hablas a un cliente, no a otra estudiante o un(a) coach. 
     - Que lo que muestres hable por sí mismo, habla más acerca de tu proceso, de los ¿Por qué? que de los ¿Qué?
     - Sé explícita, enfócate en lo que está terminado y en lo que está pendiente o en progreso.
     - Deja tiempo para preguntas y respuestas.
