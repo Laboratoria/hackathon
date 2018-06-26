@@ -26,7 +26,6 @@ Con las APIs podemos crear productos web que resuelvan estas necesidades de los 
 
 Como en toda hackathon se valorará la buena utilización del tiempo (poder terminar un producto en un período corto de tiempo), la originalidad de la idea y la sustentación de la misma.
 
-Para esta hackathon tendrás 4 días en el salón de clases más las horas adicionales que puedas, junto con tu equipo, dedicarle fuera del salón.
 
 ## Reglas generales:
 - El trabajo es en squads de 4-5 personas
